@@ -1,6 +1,7 @@
 """Main script for ADDA."""
 print('master version')
-print("main changed again")
+print("main changaaaed again")
+print("aaa")
 import params
 from core import eval_src, eval_tgt, train_src, train_tgt
 from models import Discriminator, LeNetClassifier, LeNetEncoder
